@@ -71,11 +71,3 @@ jupyter notebook FinalVision.ipynb
 - NumPy · Matplotlib · scikit-learn
 - Jupyter Notebook
 
----
-
-## 📌 Course Info
-
-**ENCS5343 — Computer Vision**  
-Birzeit University | First Semester 2025/2026  
-Instructor: Dr. Aziz Qaroush  
-Student: Aya Abdelrahman Fares
